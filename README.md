@@ -6,7 +6,7 @@
 
 # Collaboration & Connect
 - 👯 I’m looking to collaborate on hardware developing projects.
-- 🤔 I’m looking for help, advice or guides, feel free to reach out.
+- 🤔 If you are looking for help, advice or guides, feel free to reach out.
 
 # How to reach me
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ian-marrero-martin/).
